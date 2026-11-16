@@ -1,0 +1,6 @@
+{
+  "name": "The Advance Dental Clinic - Modern Dental Care, Booking & Patient Portal",
+  "description": "Comprehensive dental care clinic in Rath, Hamirpur with online appointment booking, digital patient portal, and secure payment processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
